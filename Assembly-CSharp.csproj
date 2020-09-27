@@ -36,6 +36,7 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\credits.cs" />
      <Compile Include="Assets\Scripts\endTrigger.cs" />
      <Compile Include="Assets\Scripts\followPlayer.cs" />
      <Compile Include="Assets\Scripts\gameManager.cs" />
