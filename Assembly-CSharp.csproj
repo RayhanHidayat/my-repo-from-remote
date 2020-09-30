@@ -41,6 +41,7 @@
      <Compile Include="Assets\Scripts\followPlayer.cs" />
      <Compile Include="Assets\Scripts\gameManager.cs" />
      <Compile Include="Assets\Scripts\levelComplete.cs" />
+     <Compile Include="Assets\Scripts\menu.cs" />
      <Compile Include="Assets\Scripts\playerCollision.cs" />
      <Compile Include="Assets\Scripts\playerMovement.cs" />
      <Compile Include="Assets\Scripts\score.cs" />
